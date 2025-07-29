@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**AymanZuleyhi/AymanZuleyhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Ayman</h1>
 <h3 align="center">A passionate full-stack web developer from Bulgaria.</h3>
 
