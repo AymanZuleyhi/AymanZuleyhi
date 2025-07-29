@@ -1,17 +1,22 @@
 <h1 align="center">Hey, there, my name is Ayman 👋</h1>
 
-## About me ##
-I love anything related to building websites and apps. Anything that enhances the user's experience, I'm all ears.
+<br>
 
-## 💰 Carrer ## 
-I've been working as a freelance web developer, making websites for people since 2021. 
+## 🐻 About me ##
+As somebody who uses the internet on a regular basis, nothing excites me more than seeing an amazing website with good UI that actually works. And nothing hurts me more than seeing a laggy website with a complex-to-use UI. Using a lot of bad websites is what gave me the motivation to get into this field. The desire to make something amazing.
+
+## 💰 Career ## 
+I've been working as a freelance web developer, making websites for people since 2021. It's never been my main job, it's been something on the side.
 
 Originally, I started building on Shopify, then I moved on to WordPress, and from there, I started learning custom code.
 
 ## 🏅 Notable Achievemnets ## 
-<div>Co-founder at AdelineSportswear - A Bulgarian clothing brand that's now reached over 7k followers on Instagram.</div>
 <div>
-  Partners with Adhomenim - Worked with a reputable brand with over 20k Instagram followers, building for them a custom Search Bar on SquareSpace.
+  • Co-founder at AdelineSportswear - A Bulgarian clothing brand that's now reached over 7k followers on Instagram.
+</div>
+
+<div>
+  • Partners with Adhomenim - Worked with a reputable brand with over 20k Instagram followers, building for them a custom Search Bar on SquareSpace.
 </div>
 
 
