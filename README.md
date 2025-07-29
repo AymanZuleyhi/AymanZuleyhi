@@ -11,11 +11,11 @@ Originally, I started building on Shopify, then I moved on to WordPress, and fro
 
 ## 🏅 Notable Achievemnets ## 
 <div>
-  • Co-founder at AdelineSportswear - A Bulgarian clothing brand that's now reached over 7k followers on Instagram.
+  •  Co-founder at AdelineSportswear - A Bulgarian clothing brand that's now reached over 7k followers on Instagram.
 </div>
 
 <div>
-  • Partners with Adhomenim - Worked with a reputable brand with over 20k Instagram followers, building for them a custom Search Bar on SquareSpace.
+  •  Partners with Adhomenim - Worked with a reputable brand with over 20k Instagram followers, building for them a custom Search Bar on SquareSpace.
 </div>
 
 
