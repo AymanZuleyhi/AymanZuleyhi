@@ -3,7 +3,7 @@
 <br>
 
 ## 🐻 About me ##
-As somebody who uses the internet on a regular basis, nothing excites me more than seeing an amazing website with good UI that actually works. And nothing hurts me more than seeing a laggy website with a complex-to-use UI. Using a lot of bad websites is what gave me the motivation to get into this field. The desire to make something amazing.
+I love building clear and responsive websites that actually get the job done. 
 
 ## 💰 Career ## 
 I've been working as a freelance web developer, making websites for people since 2021. It's never been my main job, it's been something on the side.
