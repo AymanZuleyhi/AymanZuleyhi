@@ -1,5 +1,4 @@
-<h1 align="center">Hey, there, my name is Ayman 👋</h1>
-
+<h1 align="center">Hey, there, my name is Ayman. 👋</h1>
 <br>
 
 ## 🐻 About me ##
@@ -24,7 +23,7 @@ Originally, I started building on Shopify, then I moved on to WordPress, and fro
 Working in the casino industry made me realise how harmful gambling websites can be for people. I decided I want to use my skills to make a positive change in the world, and so I'm building a downloadable application for PC's that will be able to block access to all gambling websites.
 
 ## Tech Stack ##
-
+I can use:
 <div>
   <img height="30px" src="https://cdn.simpleicons.org/html5/E34F26"/>&nbsp;&nbsp;
   <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>&nbsp;&nbsp;
@@ -34,5 +33,8 @@ Working in the casino industry made me realise how harmful gambling websites can
   <img height="30px" src="https://cdn.simpleicons.org/express/000000"/>&nbsp;&nbsp;
   <img height="30px" src="https://cdn.simpleicons.org/mongodb/47A248"/>&nbsp;&nbsp;
   <img height="30px" src="https://cdn.simpleicons.org/shopify/7AB55C"/>&nbsp;&nbsp;
+  <img height="30px" src="https://cdn.simpleicons.org/vercel/000000"/>&nbsp;&nbsp;
+  <img height="30px" src="https://cdn.simpleicons.org/render"/>&nbsp;&nbsp;
+  <img height="30px" src="https://cdn.simpleicons.org/firebase/DD2C00"/>&nbsp;&nbsp;
 </div>
 
